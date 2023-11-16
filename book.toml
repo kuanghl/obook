@@ -1,7 +1,7 @@
 [book]
-title = "mdBook 中文文档"
+title = "计算机领域笔记"
 description = "mdbook :) markdown生成记. 就像 Gitbook, 但专为 Rust 设计"
-authors = ["Mathieu David", "Michael-F-Bryan", "译:yobrave"]
+authors = ["kuanghl"]
 language = "zh-CN"
 
 [rust]
